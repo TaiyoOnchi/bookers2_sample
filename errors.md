@@ -1,1 +1,1 @@
-⑧ NoMethodError undefined method 'name_field'
+⑨ 新規会員登録できない(Books must exist)
