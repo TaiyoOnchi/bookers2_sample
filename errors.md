@@ -1,1 +1,1 @@
-⑥ ヘッダーのhome,aboutアイコンを押してもLoginの画面のまま
+⑧ NoMethodError undefined method 'name_field'
