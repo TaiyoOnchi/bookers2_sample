@@ -1,1 +1,1 @@
-⑳ 本の投稿ができない: データが保存できない
+㉑ NameError undefined local variable or method 'user'
