@@ -1,1 +1,1 @@
-⑫ ActionView::MissingTemplate
+⑬ bootstrapを使ったレイアウトができていない
