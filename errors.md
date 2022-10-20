@@ -1,1 +1,1 @@
-㉑ NameError undefined local variable or method 'user'
+㉑ 本の詳細ページで新規投稿フォームが編集フォームになっている
